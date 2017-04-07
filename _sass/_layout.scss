@@ -47,6 +47,8 @@ a {
   width: 25vw;
   margin-right: 40px;
   margin-bottom: 30px;
+  word-break: break-all;
+  white-space: normal;
   &:nth-child(3n) {
     margin-right: 0;
   }

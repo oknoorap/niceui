@@ -1,3 +1,8 @@
+body {
+  padding: 0 !important;
+  margin-left: 310px;
+}
+
 header {
   margin: 0 !important;
   position: fixed;
@@ -5,10 +10,16 @@ header {
   height: 100vh;
 }
 
-body {
-  padding: 0 !important;
+.wrapper {
+  width: initial;
 }
 
 .post-list {
   display: flex;
+  flex-wrap: wrap;
+}
+
+.post-item {
+    width: 90vh;
+    margin-right: 40px;
 }

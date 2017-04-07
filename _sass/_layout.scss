@@ -1,6 +1,8 @@
 body {
   padding: 0 !important;
   margin-left: 310px;
+  background-color: #132748;
+  color: #dadada;
 }
 
 header {
@@ -8,6 +10,11 @@ header {
   position: fixed;
   left: 0;
   height: 100vh;
+  background: #3072de;
+}
+
+a {
+  color: #c3d5f3;
 }
 
 .wrapper {

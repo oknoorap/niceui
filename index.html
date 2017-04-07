@@ -5,8 +5,10 @@ layout: default
 <div class="home">
   <div class="post-list">
     {% for post in site.posts %}
-      <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-      {{ post.content }}
+      <div class="post-item">
+        <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+        {{ post.content }}
+      </div>
     {% endfor %}
   </div>
 </div>

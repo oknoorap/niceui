@@ -1,16 +1,10 @@
 # Site settings
-title: Samurails
-email: bo@samurails.com
+title: Nice UI!
+email: oknoorap@gmail.com
 description: >
-  Cool Ruby/Ruby on Rails tutorials and software engineer lifestyle stuff!
+  Nice UI Collection
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: samurails
-github_username:  samurails
-
-# Build settings
-markdown: kramdown
-
+github_username:  oknoorap
 theme: jekyll-theme-dinky
 future: true
 published: true

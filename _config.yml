@@ -5,3 +5,4 @@ email: oknoorap@gmail.com
 theme: jekyll-theme-dinky
 future: true
 published: true
+markdown: kramdown

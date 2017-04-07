@@ -1,5 +1,5 @@
 body {
-  padding: 0 !important;
+  padding: 30px !important;
   margin-left: 310px;
   background-color: #132748;
   color: #dadada;
@@ -9,6 +9,7 @@ header {
   margin: 0 !important;
   position: fixed;
   left: 0;
+  top: 0;
   height: 100vh;
   background: #3072de;
   padding: 30px;
@@ -21,6 +22,11 @@ header {
 
 h1, h2, h3, h4, h5, h6 {
   color: #ffffff;
+}
+
+h1, h2, h3 {
+  padding-bottom: 5px;
+  margin: 0 0 5px;
 }
 
 a {

@@ -9,4 +9,4 @@ categories: ui-animation
 
 ### Information
 Source: [https://bench.co/syllabus/](https://bench.co/syllabus/)  
-Cache: [http://web.archive.org/web/20170407060640/https://bench.co/syllabus/](http://web.archive.org/web/20170407060640/https://bench.co/syllabus/)
+Cache: [Web Archive](http://web.archive.org/web/20170407060640/https://bench.co/syllabus/){:target="_blank"}

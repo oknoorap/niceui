@@ -5,6 +5,9 @@ description: >
   Nice UI Collection
 baseurl: "" # the subpath of your site, e.g. /blog/
 github_username:  oknoorap
+github: {
+  "is_project_page": false
+}
 theme: jekyll-theme-dinky
 future: true
 published: true

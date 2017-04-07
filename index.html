@@ -3,13 +3,10 @@ layout: default
 ---
 
 <div class="home">
-  <h1 class="page-heading">Posts</h1>
   <div class="post-list">
     {% for post in site.posts %}
-      <h2>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        {{ post.content }}
-      </h2>
+      <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+      {{ post.long_description }}
     {% endfor %}
   </div>
 </div>

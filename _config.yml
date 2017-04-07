@@ -1,13 +1,12 @@
 # Site settings
 title: Nice UI!
 email: oknoorap@gmail.com
-description: >
-  Nice UI Collection
-baseurl: "" # the subpath of your site, e.g. /blog/
+description: Nice UI Collection
 github_username:  oknoorap
 github: {
   "is_project_page": false
 }
+show_downloads: false
 theme: jekyll-theme-dinky
 future: true
 published: true

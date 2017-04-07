@@ -1,12 +1,7 @@
 # Site settings
 title: Nice UI!
+description: A collection of awesome UI/UX design
 email: oknoorap@gmail.com
-description: Nice UI Collection
-github_username:  oknoorap
-github: {
-  "is_project_page": false
-}
-show_downloads: false
 theme: jekyll-theme-dinky
 future: true
 published: true

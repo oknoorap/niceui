@@ -1,3 +1,16 @@
+# Site settings
+title: Samurails
+email: bo@samurails.com
+description: >
+  Cool Ruby/Ruby on Rails tutorials and software engineer lifestyle stuff!
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: samurails
+github_username:  samurails
+
+# Build settings
+markdown: kramdown
+
 theme: jekyll-theme-dinky
 future: true
 published: true

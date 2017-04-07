@@ -6,7 +6,7 @@ layout: default
   <div class="post-list">
     {% for post in site.posts %}
       <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-      <div class="post-content">{{ post.long_description }}</div>
+      {{ post.long_description }}
     {% endfor %}
   </div>
 </div>

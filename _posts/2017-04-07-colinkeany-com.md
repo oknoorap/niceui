@@ -9,4 +9,4 @@ categories: ui-layout
 ### Information
 Reason: Simple but powerful  
 Source: [http://www.colinkeany.com/](http://www.colinkeany.com/)  
-Cache: [http://web.archive.org/web/20170407072234/http://www.colinkeany.com/](http://web.archive.org/web/20170407072234/http://www.colinkeany.com/)
+Cache: [Web Archive](http://web.archive.org/web/20170407072234/http://www.colinkeany.com/){:target="_blank"}

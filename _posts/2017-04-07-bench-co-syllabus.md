@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Nice Hover Placeholder"
+title: "Nice Hover Placeholder"
+date: 2017-04-07 12:46:00
 categories: ui-animation
 ---
 

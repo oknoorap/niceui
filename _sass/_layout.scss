@@ -56,6 +56,9 @@ a {
   &:nth-child(3n) {
     margin-right: 0;
   }
+  p {
+    line-height: 1.3rem;
+  }
   img {
     width: 100%;
     max-width: 450px;

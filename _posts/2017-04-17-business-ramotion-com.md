@@ -2,7 +2,7 @@
 layout: post
 title: "Ramotion"
 date: 2017-04-11 08:28:00
-categories: ui-layout, ui-animation
+categories: ui-layout-and-animation
 ---
 
 [![https://gyazo.com/32dd2dfff634857fab38a6d50a54c52f](https://i.gyazo.com/32dd2dfff634857fab38a6d50a54c52f.gif)](https://gyazo.com/32dd2dfff634857fab38a6d50a54c52f)
